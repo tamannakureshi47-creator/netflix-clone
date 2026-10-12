@@ -1,5 +1,4 @@
-## Live Demo :-
-https://tamannakureshi47-creator.github.io/netflix-clone/
+
 
 # 🎬 Netflix Clone – React
 
